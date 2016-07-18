@@ -1,7 +1,7 @@
 package rein_test;
 public class main {
        public static void main(String[] args) {
-    	   System.out.println("Hello Github");
+    	   System.out.println("Hello Github!");
 
 	}
 
